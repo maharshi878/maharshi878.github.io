@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maharshi878
+- 👋 Hi, I’m Maharshi Patel!
 - 👀 I’m interested in HTML!
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on webservers!
