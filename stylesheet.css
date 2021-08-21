@@ -4,6 +4,6 @@ font-family: nunito;
 color: white;
 background-image:url("bg.jpg");
 }
-name_header, name_paragraph{
+#name_header, #name_paragraph{
 text-align: center
 }
