@@ -1,4 +1,4 @@
-<img align="center" alt="image thingy" width="1000" src="https://i.postimg.cc/LXkhVj5Z/banner.png">
+<img align="center" alt="image thingy" width="1000" src="https://i.postimg.cc/2jsr51Ss/banner.png">
 <h1 align="center">Hi 👋, I'm Maharshi Patel</h1>
 <h3 align="center">A developer. yeah. that's it.</h3>
 
