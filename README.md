@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/maharshi878)](https://github.com/maharshi878)
-(img align="right" alt="idk some random image thing" width="400" src="https://maharshi878.github.io/lib/misc/profile/banner.png")
+img align="right" alt="idk some random image thing" width="400" src="https://maharshi878.github.io/lib/misc/profile/banner.png"
 <h1 align="center">Hi 👋, I'm Maharshi Patel</h1>
 <h3 align="center">A developer. yeah. that's it.</h3>
 
