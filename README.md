@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://maharshi878/misc/profile/banner.png">
+<img align="center" alt="image thingy" width="1000" src="https://maharshi878/misc/profile/banner.png">
 <h1 align="center">Hi 👋, I'm Maharshi Patel</h1>
 <h3 align="center">A developer. yeah. that's it.</h3>
 
