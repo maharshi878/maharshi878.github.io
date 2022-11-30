@@ -1,7 +1,6 @@
-[![MasterHead](https://github.com/maharshi878)](https://github.com/maharshi878)
+<img align="center" alt="image thingy" width="1000" src="https://maharshi878.github.io/misc/profile/banner.png">
 <h1 align="center">Hi 👋, I'm Maharshi Patel</h1>
 <h3 align="center">A developer. yeah. that's it.</h3>
-<img align="center" alt="image thingy" width="1000" src="https://maharshi878.github.io/misc/profile/banner.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maharshi878&label=Profile%20views&color=0e75b6&style=flat" alt="maharshi878" /> </p>
 
