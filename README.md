@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maharshi Patel</h1>
 <h3 align="center">A developer. yeah. that's it.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="maharshi878" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdihat791&label=Profile%20views&color=0e75b6&style=flat" alt="maharshi878" /> </p>
 
 - 🔭 I’m currently working on [multiple stuff](https://github.com/maharshi878)
 
