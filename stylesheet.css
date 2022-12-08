@@ -1,9 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
-#name_section_div{
-font-family: nunito;
-color: white;
-background-image:url("bg.jpg");
-}
-#name_header, #name_paragraph{
-text-align: center
-}
